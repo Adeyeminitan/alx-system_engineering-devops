@@ -1,4 +1,6 @@
 #!/bin/bash
-rm-rf /blahb;ahb;ah
+rm -rf /blahb;ahb;ah
+
+
 
 
